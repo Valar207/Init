@@ -1,0 +1,4 @@
+# Quel est le fichier à modifier pour rendre cela permanent ?
+
+il faut modifier le fichier /etc/hostname pour rendre cela permanent
+mais nous n'avons pas les droits

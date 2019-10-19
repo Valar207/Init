@@ -1,0 +1,5 @@
+# Expliquez comment se connecter en tant que ce nouvelle utilisateur. (En session
+# graphique et en session ssh)
+
+En session graphique : Se connecter avec son identifiant et mot de passe
+Session ssh : run ssh user@<ip-address-or-hostname> et entrer le mot de passe

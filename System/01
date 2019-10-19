@@ -1,0 +1,2 @@
+# Dans quel fichier se trouve la version installée de votre Debian ?
+la version du debian se trouve dans /etc/debian_version

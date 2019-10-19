@@ -1,0 +1,2 @@
+# Quelle commande permet de lister tous les packages INSTALLÉS sur la machine ?
+apt list --installed

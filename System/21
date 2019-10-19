@@ -1,0 +1,2 @@
+# Listez tout les utilisateurs réels de la machine
+cat /etc/passwd | grep '/home' | cut -d: -f1

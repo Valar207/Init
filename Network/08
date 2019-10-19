@@ -1,0 +1,3 @@
+# Trouver chez quel hébergeur est le site de Slash16
+# en faisant whois slash16.org | grep "Name Server" on voit que
+# AWS (Amazon Web Services) est l'hebergeur du site slash16.org

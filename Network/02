@@ -1,0 +1,6 @@
+# Identifiez et affichez les caractéristiques de l’interface Ethernet
+# adresse de broadcast :
+ifconfig -L en0 | grep "broadcast " | cut -d " " -f 6
+
+# toutes les adresses IP qui font partie du même sous-réseau
+ifconfig -L en0 | grep "inet " | cut -d " " -f 2

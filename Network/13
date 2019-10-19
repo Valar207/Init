@@ -1,0 +1,3 @@
+# Grâce a la question précédente et au reverse DNS retrouvez le nom de votre host
+# nslookup 10.13.2.12 | grep "name = " | cut -d " " -f 3
+e3r2p12.42.fr.

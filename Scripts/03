@@ -1,0 +1,11 @@
+#!/bin/bash
+NOEL=`date -d 25-Dec +%j`
+TODAY=`date +%j`
+echo "  .   .   *     .  . "
+echo "   . .   *o* .  . .  " " IL RESTE"
+echo " .  . . *****  .  .  " "  "  $(($NOEL - $TODAY))
+echo "   .   ***o***   .  ." "  JOURS"
+echo "  .   **O****** .   ." "  AVANT"
+echo " .  .********O**   . " " NOEL !!!"
+echo ".  .**O*****o**** .  "
+echo "_________###_________"

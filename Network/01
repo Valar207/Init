@@ -1,0 +1,2 @@
+#Récupérez la liste des interfaces réseau de la machine sans afficher aucun détail pour ces interfaces
+ifconfig -l

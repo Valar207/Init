@@ -1,0 +1,22 @@
+# Listez les services qui se lancent automatiquement lorsque la machine boot et
+# indiquez le nom donné à ce type de service
+# systemctl list-unit-files | grep enabled
+autovt@.service                                                        enabled
+console-setup.service                                                  enabled
+cron.service                                                           enabled
+getty@.service                                                         enabled
+irqbalance.service                                                     enabled
+keyboard-setup.service                                                 enabled
+networking.service                                                     enabled
+rsync.service                                                          enabled
+rsyslog.service                                                        enabled
+ssh.service                                                            enabled
+sshd.service                                                           enabled
+syslog.service                                                         enabled
+systemd-timesyncd.service                                              enabled
+vboxadd-service.service                                                enabled
+vboxadd.service                                                        enabled
+remote-fs.target                                                       enabled
+apt-daily-upgrade.timer                                                enabled
+apt-daily.timer                                                        enabled
+# On peut trouver ces services dans le repertoire /etc/init.d

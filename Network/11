@@ -1,0 +1,4 @@
+# Trouvez grâce au résultat de la commande précédente le nom et l’IP du matériel
+# qui fait le lien entre vous (réseau local) et l’extérieur
+# nat-1 est le nom du materiel faisant le lien entre le reseau local et l'exterieur
+# son IP est 10.60.1.11
